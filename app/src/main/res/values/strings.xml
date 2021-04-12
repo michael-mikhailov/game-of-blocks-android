@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Game of Blocks</string>
+    <string name="activity_title">Game of Blocks. %1$s</string>
+
+    <string name="game_state_play">Play!</string>
+    <string name="game_state_paused">Game paused</string>
+    <string name="game_state_game_over">Game over!</string>
+
+    <string name="button_new_game">New\ngame</string>
+    <string name="button_pause_game">Pause</string>
+    <string name="button_unpause_game">Unpause</string>
+    <string name="show_next_switch_text">Next</string>
+
+    <string name="game_surface_description">Game field</string>
+    <string name="show_next_surface_description">Shows next block type</string>
+
+    <string name="button_left">Left</string>
+    <string name="button_rotate">Rotate</string>
+    <string name="button_right">Right</string>
+    <string name="button_drop">Drop</string>
+
+    <string name="score_label">Score:</string>
+    <string name="figures_label">Blocks:</string>
+    <string name="lines_label">Lines:</string>
+    <string name="level_label">Level:</string>
+    <string name="initial_score">0</string>
+
+    <string-array name="levels">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+    </string-array>
+
+</resources>
